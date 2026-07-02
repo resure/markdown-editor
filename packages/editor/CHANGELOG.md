@@ -1,5 +1,18 @@
 # Changelog
 
+## [15.43.0](https://github.com/gravity-ui/markdown-editor/compare/markdown-editor-v15.42.0...markdown-editor-v15.43.0) (2026-07-02)
+
+
+### Features
+
+* **Link:** update link creation and editing view ([#1154](https://github.com/gravity-ui/markdown-editor/issues/1154)) ([c7fb421](https://github.com/gravity-ui/markdown-editor/commit/c7fb421f1614d5428bf26f0d8b6c249affa7c62f))
+* **YfmTable:** remove background from selected table cells ([#1169](https://github.com/gravity-ui/markdown-editor/issues/1169)) ([89ca7a6](https://github.com/gravity-ui/markdown-editor/commit/89ca7a67d28b8a4895576bf8d04ebe2c6b23e3fe))
+
+
+### Bug Fixes
+
+* **YfmTable:** fix color propagation to already colored cells ([#1168](https://github.com/gravity-ui/markdown-editor/issues/1168)) ([0fdabeb](https://github.com/gravity-ui/markdown-editor/commit/0fdabebd4f12cf8b09f2ed2f2a709a13bd48cd4b))
+
 ## [15.42.0](https://github.com/gravity-ui/markdown-editor/compare/markdown-editor-v15.41.1...markdown-editor-v15.42.0) (2026-06-30)
 
 
